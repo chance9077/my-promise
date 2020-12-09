@@ -1,0 +1,1 @@
+基于Promise/A+规范实现Promise
